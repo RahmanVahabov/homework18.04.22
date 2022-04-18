@@ -1,0 +1,12 @@
+/Users/faganihajizada/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.deps.json
+/Users/faganihajizada/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.json
+/Users/faganihajizada/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.runtimeconfig.dev.json
+/Users/faganihajizada/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.dll
+/Users/faganihajizada/Projects/Employee/Employee/bin/Debug/netcoreapp3.1/Employee.pdb
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfoInputs.cache
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.AssemblyInfo.cs
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.csproj.CoreCompileInputs.cache
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.dll
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.pdb
+/Users/faganihajizada/Projects/Employee/Employee/obj/Debug/netcoreapp3.1/Employee.genruntimeconfig.cache
